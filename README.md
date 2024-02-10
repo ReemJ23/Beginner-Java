@@ -46,6 +46,7 @@ Access modifiers: public, private, protected
 Encapsulation: getters and setters
 
 Week 5: Inheritance and Polymorphism
+
 *31/3/2024-6/4/2024*
 
 Understanding inheritance and subclassing
