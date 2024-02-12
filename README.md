@@ -3,10 +3,10 @@ Princess Sumaya University for Technology
 
 Overflow Student Club
 
-## Course Description:
+## Course Description
 This course is designed for individuals with little to no programming experience who want to learn Java, one of the most popular and versatile programming languages used in software development today. Through a combination of lectures, hands-on coding exercises, and projects, students will gain a solid understanding of fundamental programming concepts, object-oriented programming (OOP) principles, and the importance of writing clean and maintainable code. By the end of the course, students will be equipped with the knowledge and skills to create simple Java applications and lay a strong foundation for further exploration in software development.
 
-## Prerequisites:
+## Prerequisites
 No prior programming experience is required. Basic computer literacy and familiarity with using a computer are recommended.
 
 ## Course Material
@@ -97,7 +97,7 @@ Exception hierarchy and throwing exceptions
 Custom exceptions
 
 
-|    MIDTERM EXAMS 2 WEEKS   |
+#    MIDTERM EXAMS 2 WEEKS   
 
 
 ### Week 7: Interfaces
@@ -151,5 +151,5 @@ Peer evaluation and feedback
 Reflection on the learning journey and next steps
 
 
-|         FINAL EXAMS        |
+#        FINAL EXAMS        
 
