@@ -14,6 +14,8 @@ No prior programming experience is required. Basic computer literacy and familia
 
 *3/3/2024-9/3/2024*
 
+What are we going to learn
+
 Overview of Java and its applications
 
 Setting up Java development environment (JDK, IDE)
