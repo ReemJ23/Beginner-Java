@@ -15,8 +15,11 @@ No prior programming experience is required. Basic computer literacy and familia
 *3/3/2024-9/3/2024*
 
 Overview of Java and its applications
+
 Setting up Java development environment (JDK, IDE)
+
 Your first Java program: Hello World!
+
 Understanding basic syntax and structure
 
 ### Week 2: Types, Arrays and Strings 
@@ -24,11 +27,17 @@ Understanding basic syntax and structure
 *10/3/2024-16/3/2024*
 
 Variables and constants
+
 Primitive and Reference Types
+
 Casting
+
 Working with arrays: declaration, initialization, and manipulation
+
 Multi-dimensional arrays
+
 Introduction to strings: String class and its methods
+
 String manipulation and formatting
 
 ### Week 3: Control Structures and Methods 
@@ -36,10 +45,15 @@ String manipulation and formatting
 *17/3/2024-23/3/2024*
 
 Comparison and Logical operators
+
 Conditional statements: if, else if, else
+
 Looping structures: for, while, do-while
+
 Introduction to methods and functions
+
 Writing and calling methods
+
 Parameter passing and return values
 
 ### Week 4: Object-Oriented Programming (OOP) Fundamentals
@@ -47,9 +61,13 @@ Parameter passing and return values
 *24/3/2024-30/3/2024*
 
 Introduction to OOP concepts: classes and objects
+
 Defining classes and creating objects
+
 Constructors and method overloading
+
 Access modifiers: public, private, protected
+
 Encapsulation: getters and setters
 
 ### Week 5: Inheritance and Polymorphism
@@ -57,9 +75,13 @@ Encapsulation: getters and setters
 *31/3/2024-6/4/2024*
 
 Understanding inheritance and subclassing
+
 Implementing Inheritance in Java
+
 Method overriding and dynamic method dispatch
+
 Polymorphism: runtime polymorphism and method overriding
+
 Abstract classes and interfaces
 
 ### Week 6: Exception Handling
@@ -67,23 +89,31 @@ Abstract classes and interfaces
 *7/4/2024-13/4/2024*
 
 Handling errors and exceptions in Java
+
 try-catch blocks
+
 Exception hierarchy and throwing exceptions
+
 Custom exceptions
 
-- - - - - - - - - - - - - - -
+
 |    MIDTERM EXAMS 2 WEEKS   |
-- - - - - - - - - - - - - - -
+
 
 ### Week 7: Interfaces
 
 *28/4/2024-4/5/2024*
 
 Understanding interfaces and their role in Java programming
+
 Declaring and implementing interfaces
+
 Using interfaces to achieve abstraction and loose coupling
+
 Interface inheritance and multiple interface implementation
+
 Practical examples of interfaces in Java programming
+
 Comparing interfaces with abstract classes and understanding when to use each
 
 ### Week 8: Clean Coding Practices
@@ -91,9 +121,13 @@ Comparing interfaces with abstract classes and understanding when to use each
 *5/5/2024-11/5/2024*
 
 Introduction to Clean Coding Principles
+
 Meaningful naming, code readability, and comments
+
 Single Responsibility Principle (SRP)
+
 Don't Repeat Yourself (DRY) principle
+
 Writing clean and maintainable code
 
 ### Week 9: Project Work
@@ -101,7 +135,9 @@ Writing clean and maintainable code
 *12/5/2024-18/5/2024*
 
 Working on a small project to apply learned concepts
+
 Collaborative coding and version control using Git
+
 Code review and feedback
 
 ### Week 10: Final Project Presentation
@@ -109,9 +145,11 @@ Code review and feedback
 *19/5/2024-25/5/2024*
 
 Presentation of final projects
+
 Peer evaluation and feedback
+
 Reflection on the learning journey and next steps
 
-- - - - - - - - - - - - - - - 
+
 |         FINAL EXAMS        |
-- - - - - - - - - - - - - - -
+
