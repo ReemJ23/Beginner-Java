@@ -159,6 +159,10 @@ Reflection on the learning journey and next steps
 # Resources
 [Java Cheat Sheet](https://overapi.com/java)
 
+[Geeks for Geeks](https://www.geeksforgeeks.org/java/?ref=lbp)
+
+[Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&t=283s)
+
 # Installation
 [JDK 21 Windows 10/11](https://www.youtube.com/watch?v=jPwrWjEwtrw)
 
