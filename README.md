@@ -158,3 +158,12 @@ Reflection on the learning journey and next steps
 
 # Resources
 [Java Cheat Sheet](https://overapi.com/java)
+
+# Installation
+[JDK 21 Windows 10/11](https://www.youtube.com/watch?v=jPwrWjEwtrw)
+
+[IntelliJ Windows 10/11 ](https://www.youtube.com/watch?v=XlWtdqYNc60)
+
+[JDK 21 Mac](https://www.youtube.com/watch?v=PQk9O03cukQ&t=686s)
+
+[IntelliJ Mac](https://www.youtube.com/watch?v=zCkhAVhuILs)
