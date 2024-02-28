@@ -12,11 +12,13 @@ No prior programming experience is required. Basic computer literacy and familia
 ## Course Material
 ### Week 1: Introduction to Java Programming 
 
-*3/3/2024-9/3/2024*
+*4/3/2024*
 
-What are we going to learn
+Discuss Course Material 
 
 Overview of Java and its applications
+
+Difference between Structured Programming and Object Oriented Programming
 
 Setting up Java development environment (JDK, IDE)
 
@@ -26,7 +28,7 @@ Understanding basic syntax and structure
 
 ### Week 2: Types, Arrays and Strings 
 
-*10/3/2024-16/3/2024*
+*11/3/2024*
 
 Variables and constants
 
@@ -44,7 +46,7 @@ String manipulation and formatting
 
 ### Week 3: Control Structures and Methods 
 
-*17/3/2024-23/3/2024*
+*18/3/2024*
 
 Comparison and Logical operators
 
@@ -60,7 +62,7 @@ Parameter passing and return values
 
 ### Week 4: Object-Oriented Programming (OOP) Fundamentals
 
-*24/3/2024-30/3/2024*
+*25/3/2024*
 
 Introduction to OOP concepts: classes and objects
 
@@ -74,7 +76,7 @@ Encapsulation: getters and setters
 
 ### Week 5: Inheritance and Polymorphism
 
-*31/3/2024-6/4/2024*
+*1/4/2024*
 
 Understanding inheritance and subclassing
 
@@ -88,7 +90,7 @@ Abstract classes and interfaces
 
 ### Week 6: Exception Handling
 
-*7/4/2024-13/4/2024*
+*8/4/2024*
 
 Handling errors and exceptions in Java
 
@@ -99,12 +101,12 @@ Exception hierarchy and throwing exceptions
 Custom exceptions
 
 
-#    MIDTERM EXAMS 2 WEEKS   
+# Eid & MIDTERM EXAMS 2 WEEKS   
 
 
 ### Week 7: Interfaces
 
-*28/4/2024-4/5/2024*
+*29/4/2024*
 
 Understanding interfaces and their role in Java programming
 
@@ -120,7 +122,7 @@ Comparing interfaces with abstract classes and understanding when to use each
 
 ### Week 8: Clean Coding Practices
 
-*5/5/2024-11/5/2024*
+*6/5/2024*
 
 Introduction to Clean Coding Principles
 
@@ -134,7 +136,7 @@ Writing clean and maintainable code
 
 ### Week 9: Project Work
 
-*12/5/2024-18/5/2024*
+*13/5/2024*
 
 Working on a small project to apply learned concepts
 
@@ -142,9 +144,9 @@ Collaborative coding and version control using Git
 
 Code review and feedback
 
-### Week 10: Final Project Presentation
+### Week 10: Final Project
 
-*19/5/2024-25/5/2024*
+*20/5/2024*
 
 Presentation of final projects
 
