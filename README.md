@@ -36,13 +36,9 @@ Primitive and Reference Types
 
 Casting
 
-Working with arrays: declaration, initialization, and manipulation
+Numbers, Strings, and Arrays
 
-Multi-dimensional arrays
-
-Introduction to strings: String class and its methods
-
-String manipulation and formatting
+Read Input
 
 ### Week 3: Control Structures and Methods 
 
