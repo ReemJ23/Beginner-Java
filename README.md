@@ -30,6 +30,8 @@ Understanding basic syntax and structure
 
 *11/3/2024*
 
+[Slides:](https://github.com/ReemJ23/Beginner-Java/raw/main/Week2.pptx)
+
 Variables and constants
 
 Primitive and Reference Types
