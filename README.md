@@ -52,11 +52,7 @@ Conditional statements: if, else if, else
 
 Looping structures: for, while, do-while
 
-Introduction to methods and functions
 
-Writing and calling methods
-
-Parameter passing and return values
 
 ### Week 4: Object-Oriented Programming (OOP) Fundamentals
 
