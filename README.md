@@ -45,6 +45,7 @@ Read Input
 ### Week 3: Control Structures and Methods 
 
 *18/3/2024*
+[Code](https://github.com/ReemJ23/Beginner-Java/blob/main/Week3.java)
 
 Comparison and Logical operators
 
