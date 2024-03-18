@@ -14,6 +14,8 @@ No prior programming experience is required. Basic computer literacy and familia
 
 *4/3/2024*
 
+[Week 1 Slides](https://github.com/ReemJ23/Beginner-Java/raw/main/Week1.pptx)
+
 Discuss Course Material 
 
 Overview of Java and its applications
@@ -46,7 +48,7 @@ Read Input
 
 *18/3/2024*
 
-[Code](https://github.com/ReemJ23/Beginner-Java/blob/main/Week3.java) [Assignments](https://github.com/ReemJ23/Beginner-Java/blob/main/WK3Assignments.java)
+[Week 3 Code](https://github.com/ReemJ23/Beginner-Java/blob/main/Week3.java)     [Assignments](https://github.com/ReemJ23/Beginner-Java/blob/main/WK3Assignments.java)
 
 Comparison and Logical operators
 
