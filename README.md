@@ -66,7 +66,7 @@ Introduction to OOP concepts: classes and objects
 
 Defining classes and creating objects
 
-Constructors and method overloading
+Constructors
 
 Access modifiers: public, private, protected
 
@@ -162,6 +162,12 @@ Reflection on the learning journey and next steps
 [Geeks for Geeks](https://www.geeksforgeeks.org/java/?ref=lbp)
 
 [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&t=283s)
+
+[Java Classes & Objects](https://www.youtube.com/watch?v=IUqKuGNasdM)
+
+[Java Tutorials](https://www.youtube.com/playlist?list=PLuVT2Ug8ISOUeumoUczDqraT_EO6qFdWt)
+
+[Java Tutorials](https://www.youtube.com/@CodingWithJohn)
 
 # Installation
 [JDK 21 Windows 10/11](https://www.youtube.com/watch?v=jPwrWjEwtrw)
