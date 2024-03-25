@@ -62,6 +62,8 @@ Looping structures: for, while, do-while
 
 *25/3/2024*
 
+[Assignment 1](https://github.com/ReemJ23/Beginner-Java/blob/main/Student.java)  [Assignment 2](https://github.com/ReemJ23/Beginner-Java/blob/main/Calculator.java)  [Assignment 3 "optional"](https://github.com/ReemJ23/Beginner-Java/blob/main/BankAccount.java)
+
 Introduction to OOP concepts: classes and objects
 
 Defining classes and creating objects
