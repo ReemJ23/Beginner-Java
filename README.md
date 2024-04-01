@@ -77,7 +77,9 @@ Encapsulation: getters and setters
 ### Week 5: Inheritance and Polymorphism
 
 *1/4/2024*
+
 [Assignment 1](https://github.com/ReemJ23/Beginner-Java/blob/main/Animal.java)  |  [Assignment 2](https://github.com/ReemJ23/Beginner-Java/blob/main/Employee.java)
+
 Understanding inheritance and subclassing
 
 Implementing Inheritance in Java
