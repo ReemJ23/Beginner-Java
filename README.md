@@ -90,9 +90,13 @@ Polymorphism: runtime polymorphism and method overriding
 
 Abstract classes and interfaces
 
+
+# Eid & MIDTERM EXAMS 2 WEEKS   
+
+
 ### Week 6: Exception Handling
 
-*8/4/2024*
+*29/4/2024*
 
 Handling errors and exceptions in Java
 
@@ -102,13 +106,9 @@ Exception hierarchy and throwing exceptions
 
 Custom exceptions
 
-
-# Eid & MIDTERM EXAMS 2 WEEKS   
-
-
 ### Week 7: Interfaces
 
-*29/4/2024*
+*6/5/2024*
 
 Understanding interfaces and their role in Java programming
 
@@ -124,7 +124,7 @@ Comparing interfaces with abstract classes and understanding when to use each
 
 ### Week 8: Clean Coding Practices
 
-*6/5/2024*
+*13/5/2024*
 
 Introduction to Clean Coding Principles
 
@@ -138,23 +138,13 @@ Writing clean and maintainable code
 
 ### Week 9: Project Work
 
-*13/5/2024*
+*20/5/2024*
 
 Working on a small project to apply learned concepts
 
 Collaborative coding and version control using Git
 
 Code review and feedback
-
-### Week 10: Final Project
-
-*20/5/2024*
-
-Presentation of final projects
-
-Peer evaluation and feedback
-
-Reflection on the learning journey and next steps
 
 
 #        FINAL EXAMS        
