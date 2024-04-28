@@ -91,7 +91,7 @@ Polymorphism: runtime polymorphism and method overriding
 Abstract classes and interfaces
 
 
-# Eid & MIDTERM EXAMS 2 WEEKS   
+# Eid & MIDTERM EXAMS 3 WEEKS   
 
 
 ### Week 6: Exception Handling
@@ -158,6 +158,8 @@ Code review and feedback
 [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34&t=283s)
 
 [Java Classes & Objects](https://www.youtube.com/watch?v=IUqKuGNasdM)
+
+[Java Exception Handling](https://www.youtube.com/watch?v=1XAfapkBQjk&list=RDCMUC42pOSNg804f1wCcj7qL0mA&start_radio=1&rv=1XAfapkBQjk&t=0)
 
 [Java Tutorials](https://www.youtube.com/playlist?list=PLuVT2Ug8ISOUeumoUczDqraT_EO6qFdWt)
 
