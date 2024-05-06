@@ -98,6 +98,8 @@ Abstract classes and interfaces
 
 *29/4/2024*
 
+[Slides]() | [Assignment](https://github.com/ReemJ23/Beginner-Java/blob/main/Content/Exception.java)
+
 Handling errors and exceptions in Java
 
 try-catch blocks
