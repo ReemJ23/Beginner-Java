@@ -98,7 +98,7 @@ Abstract classes and interfaces
 
 *29/4/2024*
 
-[Slides]() | [Assignment](https://github.com/ReemJ23/Beginner-Java/blob/main/Content/Exception.java)
+[Slides](https://github.com/ReemJ23/Beginner-Java/raw/main/Content/Week%206.pptx) | [Assignment](https://github.com/ReemJ23/Beginner-Java/blob/main/Content/Exception.java)
 
 Handling errors and exceptions in Java
 
