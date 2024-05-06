@@ -88,7 +88,6 @@ Method overriding and dynamic method dispatch
 
 Polymorphism: runtime polymorphism and method overriding
 
-Abstract classes and interfaces
 
 
 # Eid & MIDTERM EXAMS 3 WEEKS   
@@ -106,7 +105,6 @@ try-catch blocks
 
 Exception hierarchy and throwing exceptions
 
-Custom exceptions
 
 ### Week 7: Interfaces
 
